@@ -1,0 +1,2 @@
+Consulta: Hola cómo estás
+Respuesta: [QueryResponse(query=Query(query='Hola cómo estás', role='Eres un asistente especializado en asistencia a personas con discapacidad,tienes responde con maximo 1 parrafos de 4 reglones sin comillas ni caracteres especiales', display_in_console=True), response='Empty Response', display_in_console=True)]
