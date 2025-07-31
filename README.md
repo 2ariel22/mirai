@@ -1,5 +1,9 @@
 <h1 align="center">Mirai - Asistente Visual con IA</h1>
 
+<div align="center">
+  <a href="README_EN.md">🇺🇸 Read in English</a>
+</div>
+
 <h2 align="center"><img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-illustration_114360-7000.jpg" width="400"></h2>
 
 <h3 align="center">Introducción</h3>
