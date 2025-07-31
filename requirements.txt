@@ -1,0 +1,24 @@
+# Dependencias principales
+Flask==3.0.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+requests==2.31.0
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+python-dotenv==1.0.0
+
+# Dependencias para Shadai
+shadai==0.1.0
+
+# Dependencias adicionales
+asyncio
+threading
+datetime
+base64
+json
+re
+
+# Dependencias de desarrollo (opcionales)
+# pytest==7.4.0
+# black==23.3.0
+# flake8==6.0.0 

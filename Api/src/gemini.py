@@ -1,11 +1,17 @@
 import requests
+import os
+from dotenv import load_dotenv
 
+# Cargar variables de entorno
+load_dotenv()
 
-API_KEY = "AIzaSyBgtrCFS9RhUBSW54tu91TQRmItX_IkI9o"  # Reemplázala con tu clave real
 class processImg():
     def __init__(self):
         self.imgPath = None
-        self.url = f"https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key={API_KEY}"
+        self.api_key = os.getenv('GEMINI_API_KEY')
+        if not self.api_key:
+            raise ValueError("GEMINI_API_KEY no está configurada en las variables de entorno")
+        self.url = f"https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key={self.api_key}"
     def process(self, img, text):
 
         headers = {
