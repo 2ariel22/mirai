@@ -163,7 +163,7 @@ Procesa consultas de texto usando Shadai
 ## 🔒 Seguridad
 
 ### Variables de Entorno
-El proyecto utiliza variables de entorno para proteger información sensible como las claves API. Nunca subas archivos `.env` con claves reales al repositorio.
+El proyecto utiliza variables de entorno para proteger información sensible como las claves API.
 
 ### Archivos a incluir en .gitignore:
 ```
