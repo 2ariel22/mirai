@@ -165,15 +165,6 @@ Procesa consultas de texto usando Shadai
 ### Variables de Entorno
 El proyecto utiliza variables de entorno para proteger información sensible como las claves API.
 
-### Archivos a incluir en .gitignore:
-```
-.env
-*.log
-__pycache__/
-*.pyc
-.DS_Store
-```
-
 ## 🚀 Próximas Funcionalidades
 
 - [ ] Integración con más modelos de IA
