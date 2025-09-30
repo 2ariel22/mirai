@@ -4,7 +4,7 @@
   <a href="README_EN.md">🇺🇸 Read in English</a>
 </div>
 
-<h2 align="center"><img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-illustration_114360-7000.jpg" width="400"></h2>
+<h2 align="center"><img src="https://github.com/user-attachments/assets/dd09cc50-788e-4b27-8ab8-1bca0da74089" width="400"></h2>
 
 <h3 align="center">Introducción</h3>
 <p>Mirai es un sistema de asistencia inteligente diseñado para personas con discapacidad visual que utiliza inteligencia artificial para describir el entorno en tiempo real. El proyecto combina tecnologías de visión por computadora, procesamiento de lenguaje natural y síntesis de voz para crear una experiencia accesible e interactiva. El sistema captura imágenes del entorno mediante una cámara, las procesa utilizando la API de Gemini de Google, y proporciona descripciones detalladas y contextuales a través de síntesis de voz en español. Además, incluye funcionalidades de reconocimiento de voz para interacción bidireccional y un sistema de consultas inteligentes para asistencia personalizada.</p>
